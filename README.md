@@ -1,4 +1,4 @@
-# miaomiao
+# movieAPP
 
 ## Project setup
 ```
